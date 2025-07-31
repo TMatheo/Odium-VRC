@@ -11,4 +11,12 @@
     <img src="https://github.com/TMatheo/Odium-VRC/blob/main/Image/OdiumEntry.png?raw=true" alt="PAOdiumEntry" style="width: 48%; height: auto;">
     <img src="https://github.com/TMatheo/Odium-VRC/blob/main/Image/servstuff.png?raw=true" alt="PAServStuff" style="width: 51%; height: auto;">
   </div>
+  btw while scrolling in the code i found somes urls
+  
+https://track.niggaf.art/api/v1/user/heartbeat
+http://api.snoofz.net:3778/api/odium/vrc/setUserLocation
+
+https://track.niggaf.art/api/v1/user/join
+
+https://track.niggaf.art/api/v1/user/leave
 </div>
